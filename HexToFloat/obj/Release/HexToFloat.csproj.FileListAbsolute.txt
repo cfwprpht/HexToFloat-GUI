@@ -1,8 +1,0 @@
-D:\Coding\HexToFloat\HexToFloat\bin\Release\HexToFloat.exe.config
-D:\Coding\HexToFloat\HexToFloat\bin\Release\HexToFloat.exe
-D:\Coding\HexToFloat\HexToFloat\bin\Release\HexToFloat.pdb
-D:\Coding\HexToFloat\HexToFloat\obj\Release\HexToFloa.HexToFloat.resources
-D:\Coding\HexToFloat\HexToFloat\obj\Release\HexToFloat.Properties.Resources.resources
-D:\Coding\HexToFloat\HexToFloat\obj\Release\HexToFloat.csproj.GenerateResource.Cache
-D:\Coding\HexToFloat\HexToFloat\obj\Release\HexToFloat.exe
-D:\Coding\HexToFloat\HexToFloat\obj\Release\HexToFloat.pdb

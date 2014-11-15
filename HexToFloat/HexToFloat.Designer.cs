@@ -47,35 +47,35 @@
             // 
             // textSingleHex
             // 
-            this.textSingleHex.Location = new System.Drawing.Point(51, 65);
+            this.textSingleHex.Location = new System.Drawing.Point(51, 51);
             this.textSingleHex.Name = "textSingleHex";
             this.textSingleHex.Size = new System.Drawing.Size(80, 20);
             this.textSingleHex.TabIndex = 0;
             // 
             // textSingleFloat
             // 
-            this.textSingleFloat.Location = new System.Drawing.Point(66, 91);
+            this.textSingleFloat.Location = new System.Drawing.Point(66, 77);
             this.textSingleFloat.Name = "textSingleFloat";
-            this.textSingleFloat.Size = new System.Drawing.Size(92, 20);
+            this.textSingleFloat.Size = new System.Drawing.Size(114, 20);
             this.textSingleFloat.TabIndex = 1;
             // 
             // textDoubleFloat
             // 
-            this.textDoubleFloat.Location = new System.Drawing.Point(71, 142);
+            this.textDoubleFloat.Location = new System.Drawing.Point(71, 139);
             this.textDoubleFloat.Name = "textDoubleFloat";
-            this.textDoubleFloat.Size = new System.Drawing.Size(112, 20);
+            this.textDoubleFloat.Size = new System.Drawing.Size(141, 20);
             this.textDoubleFloat.TabIndex = 2;
             // 
             // textDoubleHex
             // 
-            this.textDoubleHex.Location = new System.Drawing.Point(56, 116);
+            this.textDoubleHex.Location = new System.Drawing.Point(56, 113);
             this.textDoubleHex.Name = "textDoubleHex";
             this.textDoubleHex.Size = new System.Drawing.Size(127, 20);
             this.textDoubleHex.TabIndex = 3;
             // 
             // ConvertToSingleFloat
             // 
-            this.ConvertToSingleFloat.Location = new System.Drawing.Point(137, 63);
+            this.ConvertToSingleFloat.Location = new System.Drawing.Point(137, 49);
             this.ConvertToSingleFloat.Name = "ConvertToSingleFloat";
             this.ConvertToSingleFloat.Size = new System.Drawing.Size(75, 23);
             this.ConvertToSingleFloat.TabIndex = 9;
@@ -85,7 +85,7 @@
             // 
             // ConvertToSingleHex
             // 
-            this.ConvertToSingleHex.Location = new System.Drawing.Point(164, 89);
+            this.ConvertToSingleHex.Location = new System.Drawing.Point(186, 75);
             this.ConvertToSingleHex.Name = "ConvertToSingleHex";
             this.ConvertToSingleHex.Size = new System.Drawing.Size(75, 23);
             this.ConvertToSingleHex.TabIndex = 10;
@@ -95,7 +95,7 @@
             // 
             // ConvertToDoubleFloat
             // 
-            this.ConvertToDoubleFloat.Location = new System.Drawing.Point(196, 114);
+            this.ConvertToDoubleFloat.Location = new System.Drawing.Point(189, 111);
             this.ConvertToDoubleFloat.Name = "ConvertToDoubleFloat";
             this.ConvertToDoubleFloat.Size = new System.Drawing.Size(75, 23);
             this.ConvertToDoubleFloat.TabIndex = 11;
@@ -105,7 +105,7 @@
             // 
             // ConvertToDoubleHex
             // 
-            this.ConvertToDoubleHex.Location = new System.Drawing.Point(196, 140);
+            this.ConvertToDoubleHex.Location = new System.Drawing.Point(218, 137);
             this.ConvertToDoubleHex.Name = "ConvertToDoubleHex";
             this.ConvertToDoubleHex.Size = new System.Drawing.Size(75, 23);
             this.ConvertToDoubleHex.TabIndex = 12;
@@ -116,7 +116,7 @@
             // labelWORD
             // 
             this.labelWORD.AutoSize = true;
-            this.labelWORD.Location = new System.Drawing.Point(0, 68);
+            this.labelWORD.Location = new System.Drawing.Point(0, 54);
             this.labelWORD.Name = "labelWORD";
             this.labelWORD.Size = new System.Drawing.Size(42, 13);
             this.labelWORD.TabIndex = 13;
@@ -125,7 +125,7 @@
             // labelSingleFloat
             // 
             this.labelSingleFloat.AutoSize = true;
-            this.labelSingleFloat.Location = new System.Drawing.Point(0, 94);
+            this.labelSingleFloat.Location = new System.Drawing.Point(0, 80);
             this.labelSingleFloat.Name = "labelSingleFloat";
             this.labelSingleFloat.Size = new System.Drawing.Size(62, 13);
             this.labelSingleFloat.TabIndex = 14;
@@ -134,7 +134,7 @@
             // labelDWORD
             // 
             this.labelDWORD.AutoSize = true;
-            this.labelDWORD.Location = new System.Drawing.Point(0, 119);
+            this.labelDWORD.Location = new System.Drawing.Point(0, 116);
             this.labelDWORD.Name = "labelDWORD";
             this.labelDWORD.Size = new System.Drawing.Size(50, 13);
             this.labelDWORD.TabIndex = 15;
@@ -143,7 +143,7 @@
             // labelDoubleFloat
             // 
             this.labelDoubleFloat.AutoSize = true;
-            this.labelDoubleFloat.Location = new System.Drawing.Point(0, 145);
+            this.labelDoubleFloat.Location = new System.Drawing.Point(0, 142);
             this.labelDoubleFloat.Name = "labelDoubleFloat";
             this.labelDoubleFloat.Size = new System.Drawing.Size(67, 13);
             this.labelDoubleFloat.TabIndex = 16;
@@ -152,7 +152,7 @@
             // checkReverse
             // 
             this.checkReverse.AutoSize = true;
-            this.checkReverse.Location = new System.Drawing.Point(3, 42);
+            this.checkReverse.Location = new System.Drawing.Point(241, 43);
             this.checkReverse.Name = "checkReverse";
             this.checkReverse.Size = new System.Drawing.Size(66, 17);
             this.checkReverse.TabIndex = 17;
@@ -164,7 +164,7 @@
             this.Title.AutoSize = true;
             this.Title.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.Title.Font = new System.Drawing.Font("Papyrus", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Title.Location = new System.Drawing.Point(12, 6);
+            this.Title.Location = new System.Drawing.Point(23, 6);
             this.Title.Name = "Title";
             this.Title.Size = new System.Drawing.Size(256, 32);
             this.Title.TabIndex = 18;
@@ -175,7 +175,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(281, 171);
+            this.ClientSize = new System.Drawing.Size(301, 167);
             this.Controls.Add(this.Title);
             this.Controls.Add(this.checkReverse);
             this.Controls.Add(this.labelDoubleFloat);
